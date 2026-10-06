@@ -126,7 +126,7 @@ export default function PatientDetailPage() {
             href="/consultations/historique"
             className="text-sm font-medium text-[#019CC8] hover:underline"
           >
-            Voir tout l'historique →
+            Voir tout l&apos;historique →
           </Link>
         </div>
         <div className="space-y-3">

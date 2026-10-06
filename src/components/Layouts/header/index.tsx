@@ -47,7 +47,7 @@ export function Header() {
 
       <div className="flex flex-1 items-center justify-end gap-2 min-[375px]:gap-4">
         {/* Organization Switcher */}
-        <div className="hidden md:block">
+        {/* <div className="hidden md:block">
           <select
             value={selectedOrg}
             onChange={(e) => setSelectedOrg(e.target.value)}
@@ -57,7 +57,7 @@ export function Header() {
             <option value="BIRCOVET Yamoussoukro">BIRCOVET Yamoussoukro</option>
             <option value="BIRCOVET Bouaké">BIRCOVET Bouaké</option>
           </select>
-        </div>
+        </div> */}
 
         {/* Network Status */}
         <div className="hidden md:flex items-center gap-2 rounded-lg border border-stroke bg-white px-3 py-2 dark:border-stroke-dark dark:bg-gray-dark">
@@ -67,7 +67,7 @@ export function Header() {
           </span>
         </div>
 
-        <div className="relative w-full max-w-[300px]">
+        {/* <div className="relative w-full max-w-[300px]">
           <input
             type="search"
             placeholder="Rechercher (Clients, Patients, Factures...)"
@@ -75,7 +75,7 @@ export function Header() {
           />
 
           <SearchIcon className="pointer-events-none absolute left-5 top-1/2 -translate-y-1/2 max-[1015px]:size-5" />
-        </div>
+        </div> */}
 
         <ThemeToggleSwitch />
 

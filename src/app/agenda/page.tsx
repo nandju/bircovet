@@ -137,10 +137,10 @@ export default function AgendaPage() {
         <Link href="/file-attente">
           <div className="rounded-xl border border-stroke bg-white p-5 shadow-card hover:border-[#6AB391] transition-colors dark:border-stroke-dark dark:bg-gray-dark">
             <h3 className="text-lg font-bold text-dark dark:text-white">
-              📋 File d'Attente
+              📋 File d&apos;Attente
             </h3>
             <p className="mt-2 text-sm text-gray-5">
-              Gérer la file d'attente du jour
+              Gérer la file d&apos;attente du jour
             </p>
           </div>
         </Link>

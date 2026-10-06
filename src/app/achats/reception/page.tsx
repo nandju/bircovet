@@ -115,7 +115,7 @@ export default function ReceptionPage() {
 
         {receptionItems.length === 0 ? (
           <p className="text-center text-sm text-gray-5 py-8">
-            Aucun article ajouté. Cliquez sur "+ Ajouter article" pour commencer.
+            Aucun article ajouté. Cliquez sur &quot;+ Ajouter article&quot; pour commencer.
           </p>
         ) : (
           <div className="space-y-4">

@@ -44,10 +44,10 @@ export default function FileAttentePage() {
       <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
           <h1 className="text-3xl font-bold text-dark dark:text-white">
-            File d'Attente
+            File d&apos;Attente
           </h1>
           <p className="text-sm text-gray-5 dark:text-gray-6">
-            Gestion de la file d'attente du jour
+            Gestion de la file d&apos;attente du jour
           </p>
         </div>
         <button className="rounded-lg bg-[#04A154] px-4 py-2 text-white hover:bg-[#038343]">

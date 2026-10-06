@@ -29,7 +29,7 @@ export default function AuditLogPage() {
       <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
         <div>
           <h1 className="text-3xl font-bold text-dark dark:text-white">
-            Journal d'Audit
+            Journal d&apos;Audit
           </h1>
           <p className="text-sm text-gray-5 dark:text-gray-6">
             Historique complet et inaltérable des actions
@@ -43,7 +43,7 @@ export default function AuditLogPage() {
       {/* Security Notice */}
       <div className="rounded-lg bg-red-50 p-4 dark:bg-red-900/20">
         <p className="font-medium text-red-600 dark:text-red-400">
-          🔒 Journal d'Audit Inaltérable
+          🔒 Journal d&apos;Audit Inaltérable
         </p>
         <p className="text-sm text-red-600 dark:text-red-400">
           Ce journal est protégé contre toute modification. Toutes les actions sont enregistrées de manière irréversible.

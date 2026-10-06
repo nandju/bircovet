@@ -210,7 +210,7 @@ export default function NouvelleConsultationPage() {
                       </div>
                       <div>
                         <label className="mb-1 block text-xs font-medium text-dark dark:text-white">
-                          Voie d'administration
+                          Voie d&apos;administration
                         </label>
                         <select
                           value={prescription.route}

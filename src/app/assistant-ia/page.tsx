@@ -44,7 +44,7 @@ export default function AssistantIAPage() {
           ⚠️ Avertissement de Sécurité
         </p>
         <p className="text-sm text-red-600 dark:text-red-400">
-          Toutes les sorties de l'IA sont des brouillons qui nécessitent une validation humaine avant utilisation.
+          Toutes les sorties de l&apos;IA sont des brouillons qui nécessitent une validation humaine avant utilisation.
           Vérifiez toujours les informations générées.
         </p>
       </div>
@@ -69,7 +69,7 @@ export default function AssistantIAPage() {
             </div>
             <div>
               <label className="mb-2 block text-sm font-medium text-dark dark:text-white">
-                Contexte / Données d'entrée
+                Contexte / Données d&apos;entrée
               </label>
               <textarea
                 value={prompt}
@@ -101,7 +101,7 @@ export default function AssistantIAPage() {
                   📝 Brouillon à vérifier
                 </p>
                 <p className="text-xs text-orange-600 dark:text-orange-400">
-                  Ce contenu est généré par l'IA et doit être validé avant utilisation
+                  Ce contenu est généré par l&apos;IA et doit être validé avant utilisation
                 </p>
               </div>
               <textarea
@@ -163,7 +163,7 @@ export default function AssistantIAPage() {
               🔍 Extraction document
             </h3>
             <p className="mt-1 text-sm text-gray-5">
-              Extraire les informations d'un document scanné
+              Extraire les informations d&apos;un document scanné
             </p>
           </button>
         </div>

@@ -20,7 +20,7 @@ export function RoleSelector() {
           Sélecteur de Rôle (Test)
         </label>
         <p className="text-xs text-gray-5">
-          Permet de tester l'interface selon différents profils d'accès
+          Permet de tester l&apos;interface selon différents profils d&apos;accès
         </p>
       </div>
       <div className="space-y-2">

@@ -7,12 +7,8 @@ export const NAV_DATA = [
       {
         title: "Tableau de Bord",
         icon: Icons.HomeIcon,
-        items: [
-          {
-            title: "Vue Globale",
-            url: "/dashboard",
-          },
-        ],
+        url: "/dashboard",
+        items: [],
       },
       {
         title: "Patients & Clients",

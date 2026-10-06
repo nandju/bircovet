@@ -4,10 +4,10 @@ export function Logo() {
   return (
     <div className="relative h-10 w-auto">
       <Image
-        src="/images/logo/logo.svg"
+        src="/image/logo.png"
         alt="BIRCOVET Logo"
-        width={150}
-        height={50}
+        width={100}
+        height={200}
         className="object-contain"
         priority
       />

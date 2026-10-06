@@ -13,7 +13,7 @@ export default function DashboardPage() {
             Tableau de Bord
           </h1>
           <p className="text-sm text-gray-5 dark:text-gray-6">
-            Vue d'ensemble de la clinique BIRCOVET
+            Vue d&apos;ensemble de la clinique BIRCOVET
           </p>
         </div>
         <div className="flex gap-3">
@@ -92,7 +92,7 @@ export default function DashboardPage() {
       <div className="rounded-xl border border-stroke bg-white p-6 shadow-card dark:border-stroke-dark dark:bg-gray-dark">
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-xl font-bold text-dark dark:text-white">
-            File d'Attente du Jour
+            File d&apos;Attente du Jour
           </h2>
           <Link
             href="/file-attente"
