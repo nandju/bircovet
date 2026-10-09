@@ -7,7 +7,7 @@ export function Logo() {
         src="/image/logo.png"
         alt="BIRCOVET Logo"
         width={100}
-        height={200}
+        height={100}
         className="object-contain"
         priority
       />
